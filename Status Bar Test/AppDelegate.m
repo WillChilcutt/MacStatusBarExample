@@ -22,7 +22,7 @@
     //[statusItem setTitle:@"Status"];
     [statusItem setImage:[NSImage imageNamed:@"testIcon.png"]];
     
-    //If you want to set an image instead of test use the following two methods
+    //If you want to set an image instead of text use the following two methods
     //- (void)setImage:(NSImage *)image
     //-(void)setAlternateImage:(NSImage *)image
     
